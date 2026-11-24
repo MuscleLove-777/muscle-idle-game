@@ -1,0 +1,12 @@
+# マッスルパラダイス - 筋肉放置ゲーム
+
+> マッスルパラダイス - 筋肉放置ゲーム
+
+## Main Pages
+
+- [muscle idle game](https://musclelove-777.github.io/muscle-idle-game/): main page of マッスルパラダイス - 筋肉放置ゲーム.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/muscle-idle-game
